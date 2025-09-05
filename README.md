@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=#6C80DD&height=100&section=header&text=capsule%20render&fontSize=90" />
-</p>
+## "hello world!"🌍
+my name is <b>trevor griarte</b> and i am a first-year student at <a href="https://www.elcamino.edu/" style="text-decoration:none">el camino college</a> studying computer science.
 
 <!--
 **tgriarte26/tgriarte26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
