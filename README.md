@@ -1,5 +1,5 @@
 ## "hello world!"🌍
-my name is <b>trevor griarte</b> and i am a first-year student at <a href="https://www.elcamino.edu/" style="text-decoration:none">el camino college</a> studying computer science.
+My name is <b>Trevor Griarte</b> and I am a first-year student at <b>El Camino College</b> studying computer science.
 
 Filipino / Chinese
 
