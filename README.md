@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **📚 Exploring Python and React Native**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, HTML/CSS**
 - ⚡ Fun fact: **🕹️I was top 10 in the Rocket League casual playlist in the US**
-- 📂 Portfolio: **<a href="https://mudkiptrev.vercel.app/" target="_blank">https://trevsportfolio.vercel.app/</a>**
+- 📂 Portfolio: **<a href="https://mudkiptrev.vercel.app/" target="_blank">https://mudkiptrev.vercel.app/</a>**
 
  **<h3 align="left">Skills</h3>**
 
